@@ -35,16 +35,16 @@ Control de Versiones: Git & GitHub
 Package Manager: npm
 
 ## 📦 Instalación y Configuración
-# Clonar el repositorio
+### Clonar el repositorio
 git clone https://github.com/olatzgoti/Desafio-BBK.git
 
-# Navegar al directorio del proyecto
+### Navegar al directorio del proyecto
 cd Desafio-BBK
 
-# Instalar dependencias
+### Instalar dependencias
 npm install
 
-# Ejecutar en modo desarrollo
+### Ejecutar en modo desarrollo
 npm run dev
 
 
