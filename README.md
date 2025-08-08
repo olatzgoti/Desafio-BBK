@@ -31,6 +31,7 @@ Base de Datos: MongoDB/Sequelize
 ## Herramientas de Desarrollo
 
 Control de Versiones: Git & GitHub
+
 Package Manager: npm
 
 ## 📦 Instalación y Configuración
