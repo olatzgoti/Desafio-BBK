@@ -22,7 +22,7 @@ Base de Datos: MongoDB/Sequelize
 Control de Versiones: Git & GitHub
 Package Manager: npm
 
-📦 Instalación y Configuración
+## 📦 Instalación y Configuración
 
 - git clone
 - cd /Desafio-BBK
