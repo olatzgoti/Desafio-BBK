@@ -6,19 +6,18 @@ Este proyecto forma parte del Desafío de Tripulaciones realizado en abril de 20
 
 🚀 Tecnologías Utilizadas
 
-Frontend
+## Frontend
 Framework: React
 Lenguajes: HTML5, CSS3, JavaScript
 Estilos: SCSS/CSS
 Build Tools: Vite
 
-Backend
-
+## Backend
 Runtime: Node.js
 Framework: Express
 Base de Datos: MongoDB/Sequelize
 
-Herramientas de Desarrollo
+## Herramientas de Desarrollo
 
 Control de Versiones: Git & GitHub
 Package Manager: npm
