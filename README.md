@@ -23,8 +23,24 @@ Control de Versiones: Git & GitHub
 Package Manager: npm
 
 ## 📦 Instalación y Configuración
+# Clonar el repositorio
+git clone https://github.com/olatzgoti/Desafio-BBK.git
 
-- git clone
-- cd /Desafio-BBK
-- npm install
-- npm run dev
+# Navegar al directorio del proyecto
+cd Desafio-BBK
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en modo desarrollo
+npm run dev
+
+
+🤝 Contribuciones
+Si deseas contribuir al proyecto:
+
+1.Fork el repositorio
+2.Crea una nueva rama (git checkout -b feature/nueva-funcionalidad)
+3.Realiza tus cambios y commit (git commit -am 'Añadir nueva funcionalidad')
+4.Push a la rama (git push origin feature/nueva-funcionalidad)
+5.Abre un Pull Request
