@@ -6,9 +6,9 @@ Este proyecto forma parte del Desafío de Tripulaciones realizado en abril de 20
 
 Se trata de una aplicación desarrollada como parte de un reto tecnológico que demuestra habilidades en desarrollo Frontend y Backend.
 
-🚀 Tecnologías Utilizadas
+## 🚀 Tecnologías Utilizadas
 
-## Frontend
+### Frontend
 
 Framework: React
 
@@ -18,7 +18,7 @@ Estilos: SCSS/CSS
 
 Build Tools: Vite
 
-## Backend
+### Backend
 
 Runtime: Node.js
 
@@ -45,7 +45,7 @@ npm install
 npm run dev
 
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 Si deseas contribuir al proyecto:
 
 1.Fork el repositorio
