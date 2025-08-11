@@ -8,6 +8,10 @@ Este proyecto forma parte del Desafío de Tripulaciones realizado en abril de 20
 
 Se trata de una aplicación desarrollada como parte de un reto tecnológico que demuestra habilidades en desarrollo Frontend y Backend.
 
+![Foto 1](./images/1.png)
+![Foto 2](./images/2.png)
+![Foto 3](./images/3.png)
+
 ## 🚀 Tecnologías Utilizadas
 
 ### Frontend
